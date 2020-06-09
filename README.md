@@ -1,0 +1,2 @@
+# CUDA
+Magistr cuda labs
